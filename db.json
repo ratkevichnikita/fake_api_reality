@@ -1,12 +1,119 @@
 {
-  "questions": [
+  "products": [
     {
-      "id": "q1",
-      "name": "вопрос1"
+      "id": "uniqueId1",
+      "name": "Ренессанс 3-х местный",
+      "isSelected": false,
+      "price": "34 500 ₽",
+      "isNew": false,
+      "category": "straightSofas",
+      "discount": null,
+      "image": "",
+      "additionImages": ["",""],
+      "videoLink": "https://www.youtube.com/watch?v=rBQ2SelKmq8",
+      "videoText": "",
+      "description": "“Ренессанс” современный стильный диван класса люкс.В дизайне модели лаконичные скругленные формы выгодно дополнены бархатистой фактурой обивки и стяжками на лицевой стороне. Состоящий из отдельных модулей, «Монреаль» может принимать любую форму. Комбинируйте кресла, канапе, угловые и прямые элементы, создавая идеальную конфигурацию для своей гостиной!",
+      "colors": ["",""],
+      "size": {
+        "width": "145",
+        "length": "332"
+      },
+      "sleepingPlace": {
+        "width": "121",
+        "length": "302"
+      },
+      "layoutMechanism": "Двойной раскладки",
+      "characteristics": {
+        "karkas": "Фанера",
+        "napolnenie": "ППУ",
+        "material": "металл",
+        "podushki": "2шт",
+        "chehol": "да",
+        "cvet": "серый",
+        "proizvoditel": "Россия"
+      }
     },
     {
-      "id": "q2",
-      "name": "вопрос2"
+      "id": "uniqueId1",
+      "name": "",
+      "isSelected": false,
+      "price": "",
+      "isNew": false,
+      "category": "beds",
+      "discount": null,
+      "image": "",
+      "additionImages": ["",""],
+      "videoLink": "",
+      "videoText": "",
+      "description": "",
+      "colors": ["",""],
+      "size": {
+        "width": "",
+        "length": ""
+      },
+      "characteristics": {
+        "karkas": "",
+        "napolnenie": "",
+        "material": "",
+        "podushki": "",
+        "chehol": "",
+        "cvet": "",
+        "proizvoditel": ""
+      }
+    },
+    {
+      "id": "uniqueId1",
+      "name": "",
+      "isSelected": false,
+      "price": "",
+      "isNew": false,
+      "category": "cornerSofas",
+      "discount": null,
+      "image": "",
+      "additionImages": ["",""],
+      "videoLink": "",
+      "videoText": "",
+      "description": "",
+      "colors": ["",""],
+      "size": {
+        "width": "",
+        "length": ""
+      },
+      "characteristics": {
+        "karkas": "",
+        "napolnenie": "",
+        "material": "",
+        "podushki": "",
+        "chehol": "",
+        "cvet": "",
+        "proizvoditel": ""
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "armchairs",
+      "label": "Кресла",
+      "image": null,
+      "count": null
+    },
+    {
+      "name": "beds",
+      "label": "Кровати",
+      "image": null,
+      "count": 2
+    },
+    {
+      "name": "Прямые диваны",
+      "label": "Кресла",
+      "image": null,
+      "count": 2
+    },
+    {
+      "name": "cornerSofas",
+      "label": "Угловые диваны",
+      "image": null,
+      "count": 1
     }
   ]
 }
