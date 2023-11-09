@@ -90,6 +90,13 @@
       }
     }
   ],
+  "promo": {
+    "image": "https://i.ibb.co/wMMBKYY/promoitem.png",
+    "bgImage": "https://i.ibb.co/wRfFxcS/bg.jpg",
+    "discount": "15%",
+    "label": "Весна",
+    "description": "Дарим весеннюю скидку по кодовому слову"
+  },
   "categories": [
     {
       "name": "armchairs",
