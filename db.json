@@ -100,19 +100,19 @@
     {
       "name": "beds",
       "label": "Кровати",
-      "image": null,
+      "image": "https://i.ibb.co/CwRnKHQ/beds.png",
       "count": 2
     },
     {
       "name": "Прямые диваны",
       "label": "Кресла",
-      "image": null,
+      "image": "https://i.ibb.co/cwz22tf/straightsofa.png",
       "count": 2
     },
     {
       "name": "cornerSofas",
       "label": "Угловые диваны",
-      "image": null,
+      "image": "https://i.ibb.co/vzQ5p2S/cornersofa.png",
       "count": 1
     }
   ]
