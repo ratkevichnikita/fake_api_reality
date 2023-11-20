@@ -162,21 +162,5 @@
       "image": "https://i.ibb.co/vzQ5p2S/cornersofa.png",
       "count": 1
     }
-  ],
-  "cities": [
-    {
-      "url": "https://yandex.ru/map-widget/v1/?um=constructor%3A74e929d7cf0de9b86b546e6b4d1345c8bb88f6547d31dfe80097748632492a96&amp;source=constructor",
-      "height": 500,
-      "width": "100%",
-      "isSelected": false,
-      "name": "Чебоксары"
-    },
-    {
-      "url": "https://yandex.ru/map-widget/v1/?um=constructor%3A74e929d7cf0de9b86b546e6b4d1345c8bb88f6547d31dfe80097748632492a96&amp;source=constructor",
-      "height": 500,
-      "width": "100%",
-      "isSelected": false,
-      "name": "Йошкар-Ола"
-    }
   ]
 }
